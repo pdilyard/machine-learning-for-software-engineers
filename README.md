@@ -1,21 +1,3 @@
-# Top-down learning path: Machine Learning for Software Engineers
-
-<p align="center">
-  <a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers">
-    <img alt="Top-down learning path: Machine Learning for Software Engineers" src="https://img.shields.io/badge/Machine%20Learning-Software%20Engineers-blue.svg">
-  </a>
-  <a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers/stargazers">
-	<img alt="GitHub stars" src="https://img.shields.io/github/stars/ZuzooVn/machine-learning-for-software-engineers.svg">
-  </a>
-  <a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers/network">
-	<img alt="GitHub forks" src="https://img.shields.io/github/forks/ZuzooVn/machine-learning-for-software-engineers.svg">
-  </a>
-</p>
-
-Inspired by [Google Interview University](https://github.com/jwasham/google-interview-university).
-
-_If you like this project, please give me a star._ &#9733;
-
 ## What is it?
 
 This is my multi-month study plan for going from mobile developer (self-taught, no CS degree) to machine learning engineer.
@@ -86,19 +68,6 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 - [x] Create a new branch so you can check items like this, just put an x in the brackets: [x]
 
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
-
-## Follow me
-I'm a Vietnamese Software Engineer who are really passionate and want to work in the USA.
-
-How much did I work during this plan? Roughly 4 hours/night after a long, hard day at work.
-
-I'm on the journey. 
-
-- Twitter: [@Nam Vu](https://twitter.com/zuzoovn)
-
-| ![Nam Vu - Top-down learning path: machine learning for software engineers](http://sv1.upsieutoc.com/2016/10/08/331f241c8da44d0c43e9324d55440db6.md.jpg)|
-|:---:|
-| USA as heck | 
 
 ## Don't feel you aren't smart enough
 I get discouraged from books and courses that tell me as soon as I can that multivariate calculus, inferential statistics and linear algebra are prerequisites. I still don’t know how to get started…
@@ -324,8 +293,3 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [What are some common Machine Learning interview questions?](https://www.quora.com/What-are-some-common-Machine-Learning-interview-questions)
 - [ ] [What are the best interview questions to evaluate a machine learning researcher?](https://www.quora.com/What-are-the-best-interview-questions-to-evaluate-a-machine-learning-researcher)
 - [ ] [Collection of Machine Learning Interview Questions](http://analyticscosm.com/machine-learning-interview-questions-for-data-scientist-interview/)
-
-
-
-## My admired companies
-- [ ] [ELSA - Your virtual pronunciation coach](https://www.elsanow.io/home)
